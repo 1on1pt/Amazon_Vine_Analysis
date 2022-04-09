@@ -48,45 +48,52 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 ![helpful_total_greater_equal_fifty](https://user-images.githubusercontent.com/94148420/162591986-5b644e99-9e5a-4315-92c6-90bfaf39f7ba.PNG)
 
 
-#### Filter to create a new DataFrame that retrieves reviews that were written as part of the Vine program (paid), vine == 'Y'.
+#### Filter to create a new DataFrame that retrieves the *helpful* reviews that were written as part of the Vine program (paid), vine == 'Y'.
 ![vine_paid](https://user-images.githubusercontent.com/94148420/162592058-2fe70ff2-4ab0-4aab-b930-b58f1147dd4b.PNG)
 
 
-#### Filter to create a new DataFrame that retrieves reviews that were not part of the Vine program(unpaid), vine == 'N'.
+#### Filter to create a new DataFrame that retrieves *helpful* reviews that were not part of the Vine program(unpaid), vine == 'N'.
 ![vine_unpaid](https://user-images.githubusercontent.com/94148420/162592105-80792585-7980-4861-99f6-bdc864e3afd6.PNG)
 
 
-#### Total number of reviews (paid + unpaid).
+#### Total number of *helpful* reviews (paid + unpaid).
 ![total_number_reviews](https://user-images.githubusercontent.com/94148420/162592165-2c7c3227-5235-462d-a7a5-e12461e7d465.PNG)
 
 
-#### Total number of Vine reviews (paid).
+#### Total number of Vine *helpful* reviews (paid).
 ![total_paid](https://user-images.githubusercontent.com/94148420/162592214-fd38a131-3344-42fa-bbb2-0324b5475676.PNG)
 
 
-#### Total number of non-Vine reviews (unpaid).
+#### Total number of non-Vine *heflpful* reviews (unpaid).
 ![total_unpaid](https://user-images.githubusercontent.com/94148420/162592249-bc504f8d-bad2-4f61-a266-935d52b81b2c.PNG)
 
 
-#### Total number of 5-star reviews (paid + unpaid).
+#### Total number of 5-star *helpful* reviews (paid + unpaid).
 ![total_number_five_star_reviews](https://user-images.githubusercontent.com/94148420/162592644-7d05460c-5fc1-41c8-a97c-e733eb4fa448.PNG)
 
 
-#### Total 5-star Vine reviews (paid).
+#### Total 5-star Vine *helpful* reviews (paid).
 ![total_five_star_paid](https://user-images.githubusercontent.com/94148420/162592304-a27c5614-ef09-4d13-ac0c-2ed330ecee48.PNG)
 
 
-#### Total 5-star non-Vine reviews (unpaid).
+#### Total 5-star non-Vine *helpful* reviews (unpaid).
 ![total_five_star_unpaid](https://user-images.githubusercontent.com/94148420/162592357-74203d5a-6ea7-4cc9-a587-1397ed970a26.PNG)
 
 
-#### Percentage of Vine reviews (paid) that are 5-star.
+#### Percentage of Vine *helpful* reviews (paid) that are 5-star.
 ![percent_five_star_paid](https://user-images.githubusercontent.com/94148420/162592390-1dd1d142-0b3a-49c4-94dc-40128a6ab44f.PNG)
 
 
-#### Percentage of non-Vine reviews (unpaid) that are 5-star.
+#### Percentage of non-Vine *helpful* reviews (unpaid) that are 5-star.
 ![percent_five_star_unpaid](https://user-images.githubusercontent.com/94148420/162592413-00e855d0-1928-4afe-ac15-c8c78083f320.PNG)
 
 
 ## Summary
+The results indicate that the Vine members (paid) **did not show any positivity bias** towards their reviews when rating the Automotive products.  The evidence is that  39.3% of Vine members (paid) rated the Automotive products as being 5-star, whereas non-Vine members (unpaid) rated the Automotive products as 5-star 48.4% of the time.  The Vine members appear to be more critical of these products than the non-Vine members.
 
+Had the numbers been reversed, i.e. Vine members rating 5-star 48.4% of the time and non-Vine members rating 5-star 39.3%, one could argue that there is Vine member bias with giving 5-star written reviews.
+
+Additional analyses that could be performed would include:
+* Include not only *helpful votes*, but all votes even if they were not considered *helpful*.  The reviewer may not consider *helpfulness* in their rating.
+* Include only the data where the purchase is **verified**.
+* 
