@@ -68,6 +68,10 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 ![total_unpaid](https://user-images.githubusercontent.com/94148420/162592249-bc504f8d-bad2-4f61-a266-935d52b81b2c.PNG)
 
 
+#### Total number of 5-star reviews (paid + unpaid).
+![total_number_five_star_reviews](https://user-images.githubusercontent.com/94148420/162592644-7d05460c-5fc1-41c8-a97c-e733eb4fa448.PNG)
+
+
 #### Total 5-star Vine reviews (paid).
 ![total_five_star_paid](https://user-images.githubusercontent.com/94148420/162592304-a27c5614-ef09-4d13-ac0c-2ed330ecee48.PNG)
 
@@ -82,13 +86,6 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 
 #### Percentage of non-Vine reviews (unpaid) that are 5-star.
 ![percent_five_star_unpaid](https://user-images.githubusercontent.com/94148420/162592413-00e855d0-1928-4afe-ac15-c8c78083f320.PNG)
-
-
-
-
-
-
-
 
 
 ## Summary
