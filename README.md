@@ -64,7 +64,7 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 ![total_paid](https://user-images.githubusercontent.com/94148420/162592214-fd38a131-3344-42fa-bbb2-0324b5475676.PNG)
 
 
-#### Total number of non-Vine *heflpful* reviews (unpaid).
+#### Total number of non-Vine *helpful* reviews (unpaid).
 ![total_unpaid](https://user-images.githubusercontent.com/94148420/162592249-bc504f8d-bad2-4f61-a266-935d52b81b2c.PNG)
 
 
