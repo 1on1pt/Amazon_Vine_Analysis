@@ -14,11 +14,15 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 * Vine_Review_Analysis.ipynb
 
 #### Data:
-
-
+* https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
+* https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Automotive_v1_00.tsv.gz
 
 #### Software/Data Tools:
-
+* Google Colab
+* pgAdmin 4 v6.4
+* PostreSQL
+* PySpark
+* AWS RDS
 
 
 ## Results
