@@ -10,8 +10,8 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 
 ### Resources
 #### Code:
-
-
+* Amazon_Reviews_ETL.ipynb
+* Vine_Review_Analysis.ipynb
 
 #### Data:
 
