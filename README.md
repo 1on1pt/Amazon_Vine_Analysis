@@ -96,4 +96,3 @@ Had the numbers been reversed, i.e. Vine members rating 5-star 48.4% of the time
 Additional analyses that could be performed would include:
 * Include not only *helpful votes*, but all votes even if they were not considered *helpful*.  The reviewer may not consider *helpfulness* in their rating.
 * Include only the data where the purchase is **verified**.
-* 
