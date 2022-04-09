@@ -89,7 +89,7 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 
 
 ## Summary
-The results indicate that the Vine members (paid) **did not show any positivity bias** towards their reviews when rating the Automotive products.  The evidence is that  39.3% of Vine members (paid) rated the Automotive products as being 5-star, whereas non-Vine members (unpaid) rated the Automotive products as 5-star 48.4% of the time.  The Vine members appear to be more critical of these products than the non-Vine members.
+The results indicate that the Vine members (paid) **did not show any positivity bias** towards their reviews when rating the Automotive products.  The evidence is that  39.3% of Vine members (paid) rated the Automotive products as being 5-star, whereas non-Vine members (unpaid) rated the Automotive products as 5-star 48.4% of the time.  The Vine members appear to be more critical of these products than the non-Vine members based on the lower 5-star rating percentage.
 
 Had the numbers been reversed, i.e. Vine members rating 5-star 48.4% of the time and non-Vine members rating 5-star 39.3%, one could argue that there is Vine member bias with giving 5-star written reviews.
 
