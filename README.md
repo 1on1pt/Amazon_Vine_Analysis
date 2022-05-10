@@ -20,7 +20,7 @@ In this project, the **Automotive dataset** was selected for analysis. This anal
 #### Software/Data Tools:
 * Google Colab
 * pgAdmin 4 v6.4
-* PostreSQL
+* PostgreSQL
 * PySpark
 * AWS RDS
 
